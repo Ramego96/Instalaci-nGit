@@ -18,6 +18,9 @@
 ### Versión de Git 2.5.1
 Git ya estaba instalado en el servidor Ubuntu y lo verificamos con el comando git --version
 
+![version](https://user-images.githubusercontent.com/78496018/139105403-bc8e0755-3a54-43ca-887c-b278a51bb5bb.png)
+
+
 ### Actualización paquetes
 
 Actualizamos los paquetes para que esten actualizados
